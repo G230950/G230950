@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/namsomiyon) ← 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohgbs) ← 
 - 📧 Email: g230950@globalbanking.ac.uk
 - 🧪 TryHackMe: 
 
