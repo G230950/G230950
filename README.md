@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Oz
+# 👋 Hello, I'm Osman
 **Cybersecurity Student | Ethical Hacking Enthusiast | Network Analyst in Training**
 
 ---
